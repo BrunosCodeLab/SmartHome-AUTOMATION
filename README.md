@@ -2,11 +2,22 @@
 
 This was the first project I ever worked on. It won second place at the State Review of Student Projects at the Faculty of Electrical Engineering and Computing for the 2016/2017 academic year, which is why it holds a special place among all the projects I have completed. 
 
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SmartHome-AUTOMATION/Picture1.jpg" alt="Banner" width="720" />
+</div>
+<br>
+
 ## Overview
 
 Smart Home Automation prototype developed as an educational and IoT project focused on home automation, remote monitoring, and energy-efficient control of household devices.
 This project demonstrates how modern smart home systems can integrate sensors, microcontrollers, and automation software into a single platform capable of monitoring and controlling various aspects of a home environment.
 
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SmartHome-AUTOMATION/Picture2.jpg" alt="Smarthome in the making" width="720" />
+</div>
+<br>
 
 The system is designed to:
 
@@ -17,6 +28,12 @@ The system is designed to:
 * Improve comfort while reducing energy consumption
 
 ## Architecture
+
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SmartHome-AUTOMATION/Picture4.jpg" alt="Mockup in Croatian" width="720" />
+</div>
+<br>
 
 The prototype is built around a distributed IoT architecture consisting of:
 
@@ -64,5 +81,11 @@ Relay boards allow low-voltage microcontrollers to safely switch higher-power ho
 
 
 ## Educational Purpose
+
+<br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/SmartHome-AUTOMATION/Picture3.jpg" alt="Mockup in Croatian" width="720" />
+</div>
+<br>
 
 This project was created to explore concepts of IoT, embedded systems, wireless communication, and home automation by combining hardware and software components into a functional smart home prototype.
